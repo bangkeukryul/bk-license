@@ -1,0 +1,25 @@
+{
+ "name": "BK라이선스",
+ "short_name": "BK라이선스",
+ "description": "BK Agent 라이선스 발급 · 장부 · 잠금 설정 (관리자 전용)",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0f172a",
+ "theme_color": "#1e3a8a",
+ "lang": "ko",
+ "icons": [
+  {
+   "src": "icon.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
