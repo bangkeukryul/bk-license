@@ -1,10 +1,10 @@
 {
- "id": "./",
+ "id": "/bk-license/?app=bklicense",
  "name": "BK라이선스",
  "short_name": "BK라이선스",
  "description": "BK Agent 라이선스 발급 · 장부 · 잠금 설정 (관리자 전용)",
  "lang": "ko",
- "start_url": "./",
+ "start_url": "./?app=bklicense",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
